@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Luke Bernstein and I am a rising Junior at NYU studying Finance and Computer Science
+
+I am currently working on a running workout tracking software that automatically suggets workouts each day
+
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://lnbernstein-running-tracker-home-96ivg0.streamlitapp.com/)
 
 
