@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Luke Bernstein and I am a rising Junior at NYU studying Finance and Computer Science
+My name is Luke Bernstein and I am a Senior at NYU studying Finance and Computer Science
 
 I am currently working on a running workout tracking software that automatically suggets workouts each day
 
